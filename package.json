@@ -32,7 +32,7 @@
   },
   "optionalDependencies": {
     "bufferutil": "^4.0.1",
-    "dotenv": "^8.2.0",
+    "dotenv": "^9.0.1",
     "erlpack": "github:discordapp/erlpack",
     "utf-8-validate": "^5.0.2",
     "zlib-sync": "^0.1.7"
