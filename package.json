@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/KurokuTetsuya/tsumugi-kotobuki#readme",
   "dependencies": {
-    "chalk": "^4.1.0",
+    "chalk": "^4.1.1",
     "discord.js": "github:discordjs/discord.js",
     "superagent": "^5.2.2",
     "winston": "^3.2.1"
